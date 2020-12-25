@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "DYNAMIC - Spinning Fox",
-  "version": "1.0.8",
+  "name": "DYNAMIC - Spinning Fox Theme",
+  "version": "1.1",
   "author": "Jennifer Lu",
   "permissions": ["theme"],
   "background":

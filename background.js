@@ -1,5 +1,5 @@
 /**
- * A dynamic theme with an animated spinning fox that changes color according to the time of day.
+ * A dynamic theme with an animated spinning fox outline that changes color according to the time.
  *
  * @file   Controls the theme and animation.
  * @author Jennifer Lu
@@ -152,11 +152,11 @@ const themes =
     {
       "bookmark_text": "rgb(255, 255, 255)",
 
-      "button_background_active": "rgba(180, 42, 201, 0.5)",
+      "button_background_active": "rgba(199, 53, 222, 0.5)",
       "button_background_hover": "rgba(255, 255, 255, 0.2)",
 
       "icons": "rgba(255, 255, 255, 0.8)",
-      "icons_attention": "rgba(180, 42, 201, 1)",
+      "icons_attention": "rgba(199, 53, 222, 1)",
 
       "frame": "rgb(0, 0, 0)",
       "frame_inactive": "rgb(0, 0, 0)",
@@ -166,20 +166,20 @@ const themes =
 
       "popup": "rgba(0, 0, 0, 0.5)",
       "popup_border": "rgba(255, 255, 255, 0)",
-      "popup_highlight": "rgba(180, 42, 201, 0.7)",
+      "popup_highlight": "rgba(199, 53, 222, 0.7)",
       "popup_highlight_text": "rgb(0, 0, 0)",
       "popup_text": "rgb(255, 255, 255)",
 
       "sidebar": "rgba(0, 0, 0, 0.5)",
       "sidebar_border": "rgba(255, 255, 255, 0)",
-      "sidebar_highlight": "rgba(180, 42, 201, 0.7)",
+      "sidebar_highlight": "rgba(199, 53, 222, 0.7)",
       "sidebar_highlight_text": "rgb(0, 0, 0)",
       "sidebar_text": "rgb(255, 255, 255)",
 
       "tab_background_separator": "rgba(255, 255, 255, 0)",
       "tab_background_text": "rgba(255, 255, 255, 0.8)",
-      "tab_line": "rgba(180, 42, 201, 0.8)",
-      "tab_loading": "rgba(180, 42, 201, 0.8)",
+      "tab_line": "rgba(199, 53, 222, 0.8)",
+      "tab_loading": "rgba(199, 53, 222, 0.8)",
       "tab_selected": "rgba(0, 0, 0, 0)",
       "tab_text": "rgb(255, 255, 255)",
 
@@ -189,7 +189,7 @@ const themes =
       "toolbar_field_border": "rgba(255, 255, 255, 0)",
       "toolbar_field_border_focus": "rgba(255, 255, 255, 0)",
       "toolbar_field_focus": "rgba(0, 0, 0, 0.3)",
-      "toolbar_field_highlight": "rgba(180, 42, 201, 0.7)",
+      "toolbar_field_highlight": "rgba(199, 53, 222, 0.7)",
       "toolbar_field_highlight_text": "rgba(0, 0, 0, 1)",
       "toolbar_field_separator": "rgba(255, 255, 255, 0)",
       "toolbar_field_text": "rgb(255, 255, 255)",
@@ -214,11 +214,11 @@ const themes =
     {
       "bookmark_text": "rgb(255, 255, 255)",
 
-      "button_background_active": "rgba(116, 11, 214, 0.5)",
+      "button_background_active": "rgba(142, 52, 227, 0.5)",
       "button_background_hover": "rgba(255, 255, 255, 0.2)",
 
       "icons": "rgba(255, 255, 255, 0.8)",
-      "icons_attention": "rgba(116, 11, 214, 1)",
+      "icons_attention": "rgba(142, 52, 227, 1)",
 
       "frame": "rgb(0, 0, 0)",
       "frame_inactive": "rgb(0, 0, 0)",
@@ -228,20 +228,20 @@ const themes =
 
       "popup": "rgba(0, 0, 0, 0.5)",
       "popup_border": "rgba(255, 255, 255, 0)",
-      "popup_highlight": "rgba(116, 11, 214, 0.7)",
+      "popup_highlight": "rgba(142, 52, 227, 0.7)",
       "popup_highlight_text": "rgb(0, 0, 0)",
       "popup_text": "rgb(255, 255, 255)",
 
       "sidebar": "rgba(0, 0, 0, 0.5)",
       "sidebar_border": "rgba(255, 255, 255, 0)",
-      "sidebar_highlight": "rgba(116, 11, 214, 0.7)",
+      "sidebar_highlight": "rgba(142, 52, 227, 0.7)",
       "sidebar_highlight_text": "rgb(0, 0, 0)",
       "sidebar_text": "rgb(255, 255, 255)",
 
       "tab_background_separator": "rgba(255, 255, 255, 0)",
       "tab_background_text": "rgba(255, 255, 255, 0.8)",
-      "tab_line": "rgba(116, 11, 214, 0.8)",
-      "tab_loading": "rgba(116, 11, 214, 0.8)",
+      "tab_line": "rgba(142, 52, 227, 0.8)",
+      "tab_loading": "rgba(142, 52, 227, 0.8)",
       "tab_selected": "rgba(0, 0, 0, 0)",
       "tab_text": "rgb(255, 255, 255)",
 
@@ -251,7 +251,7 @@ const themes =
       "toolbar_field_border": "rgba(255, 255, 255, 0)",
       "toolbar_field_border_focus": "rgba(255, 255, 255, 0)",
       "toolbar_field_focus": "rgba(0, 0, 0, 0.3)",
-      "toolbar_field_highlight": "rgba(116, 11, 214, 0.7)",
+      "toolbar_field_highlight": "rgba(142, 52, 227, 0.7)",
       "toolbar_field_highlight_text": "rgba(0, 0, 0, 1)",
       "toolbar_field_separator": "rgba(255, 255, 255, 0)",
       "toolbar_field_text": "rgb(255, 255, 255)",
