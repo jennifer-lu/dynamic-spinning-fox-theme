@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "DYNAMIC - Spinning Fox",
+  "version": "1.0.8",
+  "author": "Jennifer Lu",
+  "permissions": ["theme"],
+  "background":
+  {
+    "scripts": ["background.js"]
+  }
+}
