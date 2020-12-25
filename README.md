@@ -4,7 +4,7 @@ A dynamic theme with an animated spinning fox outline that changes color accordi
 
 ## Demo
 
-![theme-demo](https://github.com/jennifer-lu/Dynamic-Spinning-Fox-Theme/blob/master/demo.gif)
+![theme-demo](https://github.com/jennifer-lu/Dynamic-Spinning-Fox-Theme/blob/main/demo.gif)
 
 
 ## Installation
