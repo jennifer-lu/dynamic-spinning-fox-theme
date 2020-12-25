@@ -1,6 +1,6 @@
 # Dynamic Spinning Fox Theme
 
-A dynamic theme with an animated spinning fox that changes color according to the time. Created for Firefox add-ons.
+A dynamic theme with an animated spinning fox outline that changes color according to the time. Created for Firefox add-ons.
 
 ## Demo
 
@@ -23,7 +23,7 @@ To customize the source code:
 * Edit the code in the background.js file and change the image files.
   * For a syntax guide regarding theme development, see Mozilla's add-ons website (https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme).
   * For more information regarding themes in general, including dynamic themes, see Mozilla's add-ons website (https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Themes/Theme_concepts).
-  * APNG images were mades using GIMP and ffmpeg
+  * APNG images were made using GIMP and ffmpeg (https://www.gimp.org/ and https://ffmpeg.org/).
 * Be sure to link the edited background.js file properly in the manifest.json file.
 * Compress the edited manifest.json and background.js files.
 * Sign the edited add-on on Mozilla's add-ons developers website (https://addons.mozilla.org/en-CA/developers/).
